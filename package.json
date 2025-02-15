@@ -1,0 +1,16 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "youtube Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "youtube"
+  ],
+  "author": "Kartik Patel",
+  "license": "ISC"
+}
